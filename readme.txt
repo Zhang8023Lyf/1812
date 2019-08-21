@@ -4,3 +4,6 @@ git commit  -m			添加到本地仓库
 
 git   提交
 git    第二次提交
+
+
+远程测试
